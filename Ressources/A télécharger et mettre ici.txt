@@ -1,0 +1,7 @@
+HandbrakeGui - SoftSteph ;)
+***
+
+Pour utiliser ce logiciel, vous devez télécharge HandbrakeCLI (version Windows et/ou MacOs en fonction de votre besoin)
+Le CLI d'Handbrake permet d'être commandé par le présent logiciel
+
+Lien de téléchargement : https://handbrake.fr/downloads2.php
