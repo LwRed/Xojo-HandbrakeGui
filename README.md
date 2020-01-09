@@ -41,4 +41,3 @@ Fenetre de Log et Debuggage
 
 v.06 du 08/01/2020
 Integration des Presets Handbrake
-
