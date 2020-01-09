@@ -1,5 +1,5 @@
 # Xojo-HandbrakeGui by SoftSteph ;)
-Gui made with Xojo for HandbrakeCLI (Command Line) // Xojo 2017 requis
+Gui made with Xojo for HandbrakeCLI (Command Line) // XOJO 2017 + requis
 
 Attention : pour utiliser ce logiciel, il vous faut télécharger HandbrakeCLI et l'insérer dans le répertoire "Ressources"
 
