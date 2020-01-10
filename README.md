@@ -9,12 +9,23 @@ Fonctionnalités :
 - Possibilité de choisir des Presets avec des tailles et indices de vitesse différents
 - Compatible MacOs et Windows
 - Gestion des formats acceptables par Handbrake lors de l'importation
+- Barres de progression pour les tâches courantes et globales d'encodage
 
 Todo List :
 Detection de l'encodeur au demarrage
 Gestion du nombre de caractères pour l'extension
 
 Historique des versions :
+
+v.016 du 10/01/2020
+Correction de bugs divers
+Vérifications sous Windows
+
+v.015 du 10/01/2020
+Barre de progression de la conversion courante
+
+v.014 du 10/01/2020
+Corrections diverses de bug
 
 v.013 du 09/01/2020
 Barre de progression
