@@ -11,9 +11,11 @@ Fonctionnalités :
 - Gestion des formats acceptables par Handbrake lors de l'importation
 - Barres de progression pour les tâches courantes et globales d'encodage
 
+<img scr="Screenshot.png">
+
+
 Todo List :
-Detection de l'encodeur au demarrage
-Gestion du nombre de caractères pour l'extension
+Téléchargement automatique de l'encodeur
 
 Historique des versions :
 
