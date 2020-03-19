@@ -11,7 +11,7 @@ Fonctionnalités :
 - Gestion des formats acceptables par Handbrake lors de l'importation
 - Barres de progression pour les tâches courantes et globales d'encodage
 
-<img scr="Screenshot.png">
+<img scr="Screenshot.png" widht="100" height="80">
 
 
 Todo List :
