@@ -11,13 +11,33 @@ Fonctionnalités :
 - Gestion des formats acceptables par Handbrake lors de l'importation
 - Barres de progression pour les tâches courantes et globales d'encodage
 
-<img scr="Screenshot.png" widht="100" height="80">
+<img src="Screenshot.png" width="512">
 
 
 Todo List :
 Téléchargement automatique de l'encodeur
 
 Historique des versions :
+
+V0.22 du 19/03/2020
+Creation des videos converties dans le dossier "Reduced"
+Correction d'un bug MacOs lie au NativePath vs ShellPath
+
+V0.21 du 18/03/2020
+Changement de la méthode FileDrop : permet la depose de dossiers sous Windows
+
+V0.20 du 18/03/2020
+Changement d'icone pour l'application HandbrakeGui
+
+v.019 du 11/03/2020
+Correction de Bugs sur ListIndex
+Correction chemin d'accËs ‡ Handbrake sous Windows
+
+v.018 du 07/03/2020
+Adaptation SheetWindows pour Windows (pour se rapprocher de la version MacOs)
+
+v.017 du 12/01/2020
+Intégration Methode TopMost pour Windows (Premier Plan)
 
 v.016 du 10/01/2020
 Correction de bugs divers
