@@ -11,11 +11,13 @@ Fonctionnalités :
 - Gestion des formats acceptables par Handbrake lors de l'importation
 - Barres de progression pour les tâches courantes et globales d'encodage
 
-<img src="Screenshot.png" width="512">
-
-
 Todo List :
 Téléchargement automatique de l'encodeur
+
+<img src="Screenshot.png" width="512">
+
+Si vous aimez mes programmes, <a href="https://www.paypal.com/donate/?hosted_button_id=GY5LTDDPZ2HZG"> vous pouvez faire un don PayPal ;)</a>
+
 
 Historique des versions :
 
@@ -74,3 +76,4 @@ Fenetre de Log et Debuggage
 
 v.06 du 08/01/2020
 Integration des Presets Handbrake
+
