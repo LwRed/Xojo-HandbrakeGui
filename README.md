@@ -21,6 +21,12 @@ Si vous aimez mes programmes, <a href="https://www.paypal.com/donate/?hosted_but
 
 Historique des versions :
 
+v0.24 du 01/03/2025 :
+.m2ts compatibility
+
+V0.23 du 03/09/2023
+Dark Mode
+
 V0.22 du 19/03/2020
 Creation des videos converties dans le dossier "Reduced"
 Correction d'un bug MacOs lie au NativePath vs ShellPath
